@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ChampionSoo的个人小站</title>
+  
+  <subtitle>HelloWorld</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://chaoo.oschina.io/"/>
+  <updated>2018-02-07T10:53:06.105Z</updated>
+  <id>http://chaoo.oschina.io/</id>
+  
+  <author>
+    <name>ChampionSoo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>secondDemo</title>
+    <link href="http://chaoo.oschina.io/2018/02/07/secondDemo/"/>
+    <id>http://chaoo.oschina.io/2018/02/07/secondDemo/</id>
+    <published>2018-02-07T10:52:21.000Z</published>
+    <updated>2018-02-07T10:53:06.105Z</updated>
+    
+    <content type="html"><![CDATA[<p>随便写点东西</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;随便写点东西&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="daliy" scheme="http://chaoo.oschina.io/tags/daliy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博客</title>
+    <link href="http://chaoo.oschina.io/2018/02/07/test/"/>
+    <id>http://chaoo.oschina.io/2018/02/07/test/</id>
+    <published>2018-02-07T10:13:48.000Z</published>
+    <updated>2018-02-07T11:00:06.291Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="第一篇博客"><a href="#第一篇博客" class="headerlink" title="第一篇博客"></a>第一篇博客</h1><p>简介</p><h2 id="第二个标题"><a href="#第二个标题" class="headerlink" title="第二个标题"></a>第二个标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><ul><li>item1</li><li>item2<ol><li>阿萨德</li><li>item2</li></ol></li></ul><p>下面是代码:</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Book</span> </span>&#123;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="title">Book</span> <span class="params">()</span></span>&#123;</span><br><span class="line">        System.out.println(<span class="string">"[A] 构造方法~"</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    &#123;</span><br><span class="line">        System.out.println(<span class="string">"[B] 代码块写在了类的里面"</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">static</span>&#123;</span><br><span class="line">        System.out.println(<span class="string">"[C] 静态代码块"</span>);</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">main</span><span class="params">(String[] args)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">new</span> Book();</span><br><span class="line">        <span class="keyword">new</span> Book();</span><br><span class="line">        <span class="keyword">new</span> Book();</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>下面是分割线</p><hr><p>分割线以下</p><p>下面是引用</p><blockquote><p>天才是百分之九十九的汗水加上百分之一的灵感<br><br> 刚才是换行</p></blockquote><p> 接下来是</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;第一篇博客&quot;&gt;&lt;a href=&quot;#第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;第一篇博客&quot;&gt;&lt;/a&gt;第一篇博客&lt;/h1&gt;&lt;p&gt;简介&lt;/p&gt;
+&lt;h2 id=&quot;第二个标题&quot;&gt;&lt;a href=&quot;#第二个标题&quot; class=&quot;headerlink&quot; 
+      
+    
+    </summary>
+    
+      <category term="riji" scheme="http://chaoo.oschina.io/categories/riji/"/>
+    
+    
+      <category term="daliy" scheme="http://chaoo.oschina.io/tags/daliy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello-hexo</title>
+    <link href="http://chaoo.oschina.io/2018/02/07/hello-hexo/"/>
+    <id>http://chaoo.oschina.io/2018/02/07/hello-hexo/</id>
+    <published>2018-02-07T08:47:19.000Z</published>
+    <updated>2018-02-07T08:47:19.530Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

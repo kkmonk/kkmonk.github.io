@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://chaoo.oschina.io/2018/02/07/test/</loc>
+    <lastmod>2018-02-07T11:00:06.291Z</lastmod>
+    <data>
+        <display>
+        <title>第一篇博客</title>
+        <pubTime>2018-02-07T10:13:48.000Z</pubTime>
+        
+        <tag>daliy</tag>
+         
+         
+           
+             
+              <breadCrumb title="riji" url="http://chaoo.oschina.io/categories/riji/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://chaoo.oschina.io/2018/02/07/secondDemo/</loc>
+    <lastmod>2018-02-07T10:53:06.105Z</lastmod>
+    <data>
+        <display>
+        <title>secondDemo</title>
+        <pubTime>2018-02-07T10:52:21.000Z</pubTime>
+        
+        <tag>daliy</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://chaoo.oschina.io/2018/02/07/hello-hexo/</loc>
+    <lastmod>2018-02-07T08:47:19.530Z</lastmod>
+    <data>
+        <display>
+        <title>hello-hexo</title>
+        <pubTime>2018-02-07T08:47:19.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
